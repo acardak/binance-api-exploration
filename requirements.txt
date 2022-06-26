@@ -1,0 +1,4 @@
+pandas==1.4.3
+requests==2.28.0
+simplejson==3.17.6
+prometheus-client==0.14.1
